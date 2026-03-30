@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "/": "minecraft:stick",
+    "A": "minecraft:amethyst_shard"
+  },
+  "pattern": [
+    "AA ",
+    " / ",
+    " / "
+  ],
+  "result": {
+    "count": 1,
+    "id": "test:amethyst_hoe"
+  }
+}

@@ -1,0 +1,13 @@
+// 1.21.11	-999999999-01-01T00:00:00	test/TestRecipeProvider
+e9821bf3cf97a6ad0c622d941e3e561229546290 data/test/advancement/recipes/food/golden_bread.json
+3b93c66dac480d92a9b097de3c08b4cc1eebb9f2 data/test/advancement/recipes/tools/amethyst_axe.json
+743baa716dd388d40fd8ec7662f815e215d5383a data/test/advancement/recipes/tools/amethyst_hoe.json
+de5cbf3444da207c4c9eb195911668e9d8ff137d data/test/advancement/recipes/tools/amethyst_pickaxe.json
+63055ec530837ad2ed750c9807e181262093faa5 data/test/advancement/recipes/tools/amethyst_shovel.json
+6a6c934fa3f0b0184cb193d110b9bd8031c796a2 data/test/advancement/recipes/tools/amethyst_sword.json
+e928441cc48824d51fac12440f148a6104cca5b5 data/test/recipe/amethyst_axe.json
+373184ce53c9ee19911a6536e2a17e211efc25a0 data/test/recipe/amethyst_hoe.json
+39ed047c43c598cb3c9306a74ac6c9393fb2f7bd data/test/recipe/amethyst_pickaxe.json
+990ce26cf52f7f28456173273ab26c5817c7c49a data/test/recipe/amethyst_shovel.json
+eadaef17892516398f07543caa18228a31964d4f data/test/recipe/amethyst_sword.json
+029632f311c0b7dd073bce7354759c6978948de2 data/test/recipe/golden_bread.json

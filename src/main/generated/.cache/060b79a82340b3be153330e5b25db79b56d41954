@@ -1,0 +1,11 @@
+// 1.21.11	-999999999-01-01T00:00:00	test/Tags for minecraft:item
+4e61b6d5404771b4026113976f34395da69a75dd data/minecraft/tags/item/axes.json
+1ec143c4844efd1779769a113a9c06211c5dbbde data/minecraft/tags/item/chest_armor.json
+2367a6fc6049f1693009ba302bef7f441f480c47 data/minecraft/tags/item/foot_armor.json
+7939fae2bb2e9b344586f195055daa9db2299ef0 data/minecraft/tags/item/head_armor.json
+ab3642588770df02f6bf696a07079bcecb9673ae data/minecraft/tags/item/hoes.json
+3b627fae49b3d018d4623be4d0c3a44f395397a5 data/minecraft/tags/item/leg_armor.json
+f5f5ee4ec9f79ac4eaa98b00247c1f67009b50d1 data/minecraft/tags/item/pickaxes.json
+cf21da41c96f3188d6e371a6905427a822c14ce6 data/minecraft/tags/item/shovels.json
+af10a4f1bd22347905e24c871639b953d8cdfe94 data/minecraft/tags/item/swords.json
+8d00984ca62aebc1cb1c386387a266acbf2e144f data/test/tags/item/repairs_amethyst.json
